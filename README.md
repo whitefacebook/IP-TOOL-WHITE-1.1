@@ -28,7 +28,8 @@ Il offre un ensemble d’outils pour la collecte d’informations réseau et sys
 ### 1. Cloner le dépôt
 ```bash
 git clone https://github.com/whitefacebook/IP-TOOL-WHITE-1.1.git
-cd <TON-DEPOT>
+
+cd IP-TOOL-WHITE-1.1
 
 2. Installer les dépendances
 
